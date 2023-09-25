@@ -1,0 +1,16 @@
+.spacer{
+    flex: 1 1 auto;
+}
+
+.Search{
+    margin-left: 10px;
+}
+
+.searchinput{
+    height: 34px;
+    width: 12rem;
+    text-align: center;
+}
+.title{
+    margin-right: 20px;
+}
